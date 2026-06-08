@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Lazy Boons",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lazy Boons",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "RDSANSyt.aternos.me",
+    "port":  46926,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
